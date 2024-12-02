@@ -1,0 +1,104 @@
+Written by
+Alex Garland
+Music starts.
+OPEN ON -
+1                                                                 1
+INT. OFFICE - DAY
+- a COMPUTER MONITOR.
+Lines of code appear, as they are typed.
+main( ) {
+extrn a, b, c;
+putchar(a); putchar (b);putchar (c); putchar('!'*n');
+}
+a `hell';
+b `o, w';
+c `or
+CUT TO -
+- a view above an ultra-cool, ultra-designed open-plan
+office.
+In a kitchen area, young men and women mill and chat.
+Casually dressed. Feels like an intelligent, relaxed
+environment.
+Behind them, more young men and women sit at desks, in front
+of screens and keyboard.
+Each workstation is personalised. Photographs of friends or
+family, or pets. Cutting from magazines. Ironic
+superhero/video-game figurines.
+CUT TO -
+- the hands of the young man writing code.   This is CALEB.
+He types fast, with two fingers.
+CUT TO -
+- EXTREME CLOSE UP of a pinhole web-cam lens in CALEB'S
+monitor.
+CUT TO -
+- the POV of the web-cam.
+Looking back at CALEB.
+Twenty four. Glazed. Ear buds in, connected to cell phone.
+Head bobbing slightly to the music.
+As we watch from the monitor POV, we can see the computer's
+facial recognition system in operation.
+2.
+Imaged as vector boxes, which track CALEB'S face, and the
+faces of all the people behind him.
+CUT TO -
+- the COMPUTER MONITOR.
+On which a message appears, in a small window, over the code.
+VIP EMAIL RECEIVED
+subject: HIDDEN
+CUT TO -
+- the monitor web-cam POV.
+As CALEB stops typing.
+He gazes at the message.
+Then clicks on the link.
+Then mouths the word: Fuck.
+CALEB reaches for his cell phone.
+CUT TO -
+- the CELL PHONE POV, seen from the tiny camera above the
+screen, as CALEB lifts the phone, and starts keying-in a
+text.
+We see facial recognition software flickering over CALEB'S
+features, and reacting to shifts in his expression.
+CUT TO -
+- the cell phone. The screen.   The tiny camera nestled above
+it. Lens glinting.
+On the screen, a time-bar extends next to the word:
+sending
+A beat later, a reply text message appears.
+WTF?   seriously!?
+CUT TO -
+- the WEB CAM POV, watching CALEB react to the arrival of the
+text.
+CUT TO -
+- cell phone screen.
+CALEB sends the word:
+3.
+yes
+A beat later, a stream of text messages start appearing:
+Buena estoria bro
+omfg fucking AWESOME
+:o)
+take me take me?!?
+Caleb > [infinity symbol]
+CUT TO -
+- the computer monitor POV.
+Behind CALEB, a few of the people behind CALEB in the office
+are reacting.
+One stands and applauds.
+A GIRL comes out from behind her desk, runs over to CALEB,
+and embraces him from behind planting a kiss on his cheek.
+CALEB still looks dazed.
+He still has his headphones in. Still in the audio bubble,
+which, despite the commotion around him, remains unburst.
+TITLE:
+2                                                                   2
+EXT. MOUNTAINS - DAY
+A spectacular mountain landscape. Waterfalls drop down
+massive rock faces to inland lakes. Rivers push through
+forest. Forest spreads across valley floors, which rise to
+snow peaks.
+3                                                                   3
+INT. HELICOPTER - DAY
+CALEB wakes abruptly -
+- to find himself in the front seat of a helicopter.
+The pilot, JAY, is a man in his forties.
+Outside the window is the mountain landscape.
