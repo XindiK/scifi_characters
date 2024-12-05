@@ -1,0 +1,2620 @@
+{
+  "movie_title": "exmachina",
+  "movie_url": "https://imsdb.com/scripts/Ex-Machina.html",
+  "movie_script": [
+    {
+      "scene": "INT. OFFICE - DAY",
+      "events": [
+        "",
+        "2 2",
+        {
+          "character": "EX MACHINA",
+          "dialogue": " 2 2"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - DAY",
+      "events": [
+        "",
+        "A spectacular mountain landscape. Waterfalls drop down",
+        "massive rock faces to inland lakes. Rivers push through",
+        "forest. Forest spreads across valley floors, which rise to",
+        "snow peaks.",
+        "",
+        "3 3",
+        {
+          "character": null,
+          "dialogue": " A spectacular mountain landscape. Waterfalls drop down massive rock faces to inland lakes. Rivers push through forest. Forest spreads across valley floors, which rise to snow peaks.  3 3"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HELICOPTER - DAY",
+      "events": [
+        "We've been flying over his estate",
+        "for the past two hours.",
+        "6.",
+        "",
+        "4 4",
+        {
+          "character": "JAY",
+          "dialogue": "We've been flying over his estate for the past two hours. 6.  4 4"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - DAY",
+      "events": [
+        "",
+        "The helicopter flies over a vast white glacier.",
+        "",
+        "5 5",
+        {
+          "character": null,
+          "dialogue": " The helicopter flies over a vast white glacier.  5 5"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - DAY",
+      "events": [
+        "",
+        "",
+        "6 6",
+        {
+          "character": "CUT",
+          "dialogue": "  6 6"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - DAY",
+      "events": [
+        "",
+        "The helicopter flies over the lip of a WATERFALL, revealing a",
+        "valley.",
+        "",
+        "The valley floor is a forest, and a single bright green",
+        "meadow. Sunlit, like a jewel in the icy mountains.",
+        "",
+        "A white-water river runs through it.",
+        "",
+        "7 7",
+        {
+          "character": null,
+          "dialogue": " The helicopter flies over the lip of a WATERFALL, revealing a valley.  The valley floor is a forest, and a single bright green meadow. Sunlit, like a jewel in the icy mountains.  A white-water river runs through it.  7 7"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HELICOPTER - DAY",
+      "events": [
+        "CALEB looks down at the breathtaking view as the helicopter",
+        "banks, turns, and descends.",
+        "",
+        "8 8",
+        {
+          "character": null,
+          "dialogue": "CALEB looks down at the breathtaking view as the helicopter banks, turns, and descends.  8 8"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MEADOW/LANDING SITE - DAY",
+      "events": [
+        "",
+        "Meadow flowers whip in the rotor wash as the helicopter",
+        "touches down in the vast meadow.",
+        "",
+        "By the landing site is a collection of huge metal crates.",
+        "All have Chinese characters on the side.",
+        "",
+        "The rotor blades slow, but don't stop.",
+        "",
+        "JAY exits.",
+        "",
+        "9 9",
+        {
+          "character": null,
+          "dialogue": " Meadow flowers whip in the rotor wash as the helicopter touches down in the vast meadow.  By the landing site is a collection of huge metal crates. All have Chinese characters on the side.  The rotor blades slow, but don't stop.  JAY exits.  9 9"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MEADOW/LANDING SITE - DAY",
+      "events": [
+        "Please get a safe distance from the",
+        "blades.",
+        "",
+        "The pilot gets back inside the helicopter, and closes the",
+        "door.",
+        "",
+        "CALEB hurriedly retreats with his bag.",
+        "Moments later, in a roar of wind and noise, the helicopter is",
+        "lifting off.",
+        "",
+        "Equally suddenly, the noise is fading, and the helicopter is",
+        "soaring upwards, and banking back towards the glacier.",
+        "",
+        "Then it is gone. Bird song and wind rush replace engine",
+        "noise.",
+        "",
+        "CALEB suddenly looks very isolated.",
+        "",
+        "10 10",
+        {
+          "character": "JAY",
+          "dialogue": "Please get a safe distance from the blades.  The pilot gets back inside the helicopter, and closes the door.  CALEB hurriedly retreats with his bag. Moments later, in a roar of wind and noise, the helicopter is lifting off.  Equally suddenly, the noise is fading, and the helicopter is soaring upwards, and banking back towards the glacier.  Then it is gone. Bird song and wind rush replace engine noise.  CALEB suddenly looks very isolated.  10 10"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. RIVER - DAY",
+      "events": [
+        "",
+        "CALEB walks along the banks of the fast-flowing river,",
+        "awkwardly bumping his wheeled suitcase over the ground.",
+        "",
+        "The banks of the river start to climb, to an intimidating",
+        "drop.",
+        "",
+        "It feels that this can't be the right way.",
+        "",
+        "CALEB reaches into his pocket and pulls out his mobile phone.",
+        "",
+        "No signal at all.",
+        "",
+        "He puts his phone back in his pocket.",
+        "",
+        "11 11",
+        {
+          "character": null,
+          "dialogue": " CALEB walks along the banks of the fast-flowing river, awkwardly bumping his wheeled suitcase over the ground.  The banks of the river start to climb, to an intimidating drop.  It feels that this can't be the right way.  CALEB reaches into his pocket and pulls out his mobile phone.  No signal at all.  He puts his phone back in his pocket.  11 11"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. RIVER/HOUSE VIEW - DAY",
+      "events": [
+        "",
+        "CALEB rounds a bend in the river.",
+        "",
+        "Ahead, almost hidden in trees, there is a steel and glass",
+        "structure.",
+        "8.",
+        "",
+        "12 12",
+        {
+          "character": null,
+          "dialogue": " CALEB rounds a bend in the river.  Ahead, almost hidden in trees, there is a steel and glass structure. 8.  12 12"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. CLEARING - DAY",
+      "events": [
+        "",
+        "CALEB walks towards the house through the trees.",
+        "",
+        "In the ground, in a grassy clearing, he finds a circular",
+        "window, reflecting the sky.",
+        "",
+        "He walks up to the window, and looks inside.",
+        "",
+        "It reveals what is effectively a glass-covered well - about",
+        "four metres deep, with smooth concrete sides.",
+        "",
+        "At the bottom of the well is a brightly-lit room, which",
+        "appears to be an office of some sort. There is a desk, with",
+        "monitors, and a chair.",
+        "",
+        "But apparently no one inside.",
+        "",
+        "Beyond the clearing, in the tree-line, CALEB sees - almost",
+        "camouflaged by forest - the dark shapes and straight lines of",
+        "a low, one storey building complex.",
+        "",
+        {
+          "character": "12A 12A",
+          "dialogue": " CALEB walks towards the house through the trees.  In the ground, in a grassy clearing, he finds a circular window, reflecting the sky.  He walks up to the window, and looks inside.  It reveals what is effectively a glass-covered well - about four metres deep, with smooth concrete sides.  At the bottom of the well is a brightly-lit room, which appears to be an office of some sort. There is a desk, with monitors, and a chair.  But apparently no one inside.  Beyond the clearing, in the tree-line, CALEB sees - almost camouflaged by forest - the dark shapes and straight lines of a low, one storey building complex. "
+        }
+      ]
+    },
+    {
+      "scene": "EXT. HOUSE - DAY",
+      "events": [
+        "",
+        "He holds his keycard ID.",
+        "",
+        "The RED LED light changes to BLUE.",
+        "",
+        "CALEB pushes the front door, and it swings open.",
+        "",
+        "13 13",
+        {
+          "character": "RED LED LIGHT.",
+          "dialogue": " He holds his keycard ID.  The RED LED light changes to BLUE.  CALEB pushes the front door, and it swings open.  13 13"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/MAIN ROOM - DAY",
+      "events": []
+    },
+    {
+      "scene": "INT. HOUSE/DINING AREA - DAY",
+      "events": [
+        "",
+        "CALEB enters a dining area.",
+        "",
+        "Which now reveals...",
+        "",
+        "... a huge glass door.",
+        "",
+        "It presents an arresting view of a garden, river, and the",
+        "mountains behind.",
+        "10.",
+        "",
+        "",
+        "The door is open, and through it, we see the reason for the",
+        "thumping sound.",
+        "",
+        "Just outside, on a patio, in the sunshine, a man is working a",
+        "",
+        "14 14",
+        {
+          "character": "PUNCH BAG.",
+          "dialogue": " CALEB enters a dining area.  Which now reveals...  ... a huge glass door.  It presents an arresting view of a garden, river, and the mountains behind. 10.   The door is open, and through it, we see the reason for the thumping sound.  Just outside, on a patio, in the sunshine, a man is working a  14 14"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN - DAY",
+      "events": [
+        "Dude. I've been so looking forward",
+        "to this.",
+        "",
+        "15 15",
+        {
+          "character": "NATHAN",
+          "dialogue": "Dude. I've been so looking forward to this.  15 15"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/DINING AREA - DAY",
+      "events": [
+        "It's good to meet you too, Caleb.",
+        "",
+        "They shake.",
+        "13.",
+        "",
+        "",
+        "When CALEB takes his hand back, there is a little smear of",
+        "blood on his fingers.",
+        "",
+        "He discretely wipes it on his trousers.",
+        "",
+        "16 16",
+        {
+          "character": "NATHAN",
+          "dialogue": "It's good to meet you too, Caleb.  They shake. 13.   When CALEB takes his hand back, there is a little smear of blood on his fingers.  He discretely wipes it on his trousers.  16 16"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. HOUSE/ELEVATOR - DAY",
+      "events": []
+    },
+    {
+      "scene": "EXT. RIVER - DAY",
+      "events": [
+        "Water flows over rocks.",
+        "",
+        "17 17",
+        {
+          "character": null,
+          "dialogue": "Water flows over rocks.  17 17"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - CONTINUOUS",
+      "events": [
+        "Guess it's for you, Caleb.",
+        "",
+        "18 18",
+        {
+          "character": "NATHAN",
+          "dialogue": "Guess it's for you, Caleb.  18 18"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - DAY",
+      "events": [
+        "... What?",
+        "",
+        "NATHAN indicates the desk - where a pen sits next to a",
+        "printed document.",
+        "",
+        "19 19",
+        {
+          "character": "CALEB",
+          "dialogue": "... What?  NATHAN indicates the desk - where a pen sits next to a printed document.  19 19"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - DAY",
+      "events": [
+        "",
+        "20 20",
+        {
+          "character": "CUT TO -",
+          "dialogue": " 20 20"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - DAY",
+      "events": [
+        "Good.",
+        "",
+        "21 21",
+        {
+          "character": "AVA",
+          "dialogue": "Good.  21 21"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. HOUSE/GARDEN - DUSK",
+      "events": [
+        "",
+        "A view of the house over the meadows.",
+        "",
+        "The sun setting is behind the mountain peaks, making the",
+        "edges of the clouds glow like light-bulb filaments.",
+        "",
+        "22 22",
+        {
+          "character": null,
+          "dialogue": " A view of the house over the meadows.  The sun setting is behind the mountain peaks, making the edges of the clouds glow like light-bulb filaments.  22 22"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/DINING AREA - DUSK",
+      "events": [
+        "Cheers.",
+        "",
+        "The glass of the bottles touch.",
+        "",
+        "23 23",
+        {
+          "character": "CALEB",
+          "dialogue": "Cheers.  The glass of the bottles touch.  23 23"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "",
+        "24 24",
+        {
+          "character": "CUT",
+          "dialogue": "  24 24"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BATHROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB stands in his boxer shorts, brushing his teeth by the",
+        "sink.",
+        "",
+        "REVEAL several long scars on his back.",
+        "",
+        "Neat. Unusual. Long-healed. But from serious wounds, or",
+        "surgery.",
+        "",
+        "25 25",
+        {
+          "character": null,
+          "dialogue": " CALEB stands in his boxer shorts, brushing his teeth by the sink.  REVEAL several long scars on his back.  Neat. Unusual. Long-healed. But from serious wounds, or surgery.  25 25"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "",
+        "26 26",
+        {
+          "character": "CUT",
+          "dialogue": "  26 26"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "Power restored.",
+        "",
+        "CALEB stands in the flickering TV light.",
+        "Then he tries his card again.",
+        "",
+        "This time, the LED turns blue, and the door opens. Revealing",
+        "the GLASS CORRIDOR outside.",
+        "",
+        "27 27",
+        {
+          "character": "AUTOMATED VOICE",
+          "dialogue": "Power restored.  CALEB stands in the flickering TV light. Then he tries his card again.  This time, the LED turns blue, and the door opens. Revealing the GLASS CORRIDOR outside.  27 27"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": [
+        "",
+        "CALEB walks out of his room.",
+        "",
+        "The glass corridor illuminates as CALEB enters.",
+        "",
+        "Ahead, one of the doors off the corridor is ajar.",
+        "",
+        "28 28",
+        {
+          "character": null,
+          "dialogue": " CALEB walks out of his room.  The glass corridor illuminates as CALEB enters.  Ahead, one of the doors off the corridor is ajar.  28 28"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/POLLOCK ROOM - NIGHT",
+      "events": [
+        "Sweet dreams.",
+        "",
+        "29 29",
+        {
+          "character": "NATHAN",
+          "dialogue": "Sweet dreams.  29 29"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - NIGHT",
+      "events": [
+        "",
+        "Above the mountains, dense star constellations wheel in the",
+        "clear sky.",
+        "",
+        "30 30",
+        {
+          "character": null,
+          "dialogue": " Above the mountains, dense star constellations wheel in the clear sky.  30 30"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - MORNING",
+      "events": [
+        "",
+        "CALEB is woken by light flooding on to his face.",
+        "",
+        "The door to his room has been opened.",
+        "",
+        "Outside is the bright glass corridor.",
+        "",
+        "CALEB sits up to see a GIRL entering his room.",
+        "33.",
+        "",
+        "",
+        "She looks Japanese. She's stunningly pretty. And she",
+        "doesn't say anything.",
+        "",
+        "Just walks in, carrying a tray with a cafetiere, which she",
+        "puts on CALEB'S bedside table.",
+        "",
+        "... Hi.",
+        "",
+        "The JAPANESE GIRL doesn't answer.",
+        "",
+        "Just turns, and leaves.",
+        "",
+        "31 31",
+        {
+          "character": "CALEB",
+          "dialogue": " CALEB is woken by light flooding on to his face.  The door to his room has been opened.  Outside is the bright glass corridor.  CALEB sits up to see a GIRL entering his room. 33.   She looks Japanese. She's stunningly pretty. And she doesn't say anything.  Just walks in, carrying a tray with a cafetiere, which she puts on CALEB'S bedside table.  ... Hi.  The JAPANESE GIRL doesn't answer.  Just turns, and leaves.  31 31"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN/GYM AREA - DAY",
+      "events": [
+        "35.",
+        "",
+        "32 32",
+        {
+          "character": "CUT TO -",
+          "dialogue": "35.  32 32"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - DAY",
+      "events": [
+        "Good.",
+        "",
+        "33 33",
+        {
+          "character": "AVA",
+          "dialogue": "Good.  33 33"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CABIN - LATE AFTERNOON",
+      "events": [
+        "",
+        "Trees and shrubs cast long shadows across the manicured lawn.",
+        "",
+        "Through the glass wall, we can see the Japanese girl, KYOKO,",
+        "preparing sushi.",
+        "",
+        "34 34",
+        {
+          "character": null,
+          "dialogue": " Trees and shrubs cast long shadows across the manicured lawn.  Through the glass wall, we can see the Japanese girl, KYOKO, preparing sushi.  34 34"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/DINING AREA - NIGHT",
+      "events": [
+        "No. Not really.",
+        "",
+        "ON NATHAN'S GLASS - refilling. The view through it, of",
+        "CALEB, disappearing in the red liquid.",
+        "",
+        "35 35",
+        {
+          "character": "CALEB",
+          "dialogue": "No. Not really.  ON NATHAN'S GLASS - refilling. The view through it, of CALEB, disappearing in the red liquid.  35 35"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BATHROOM - NIGHT",
+      "events": [
+        "",
+        "",
+        "36 36",
+        {
+          "character": "CUT",
+          "dialogue": "  36 36"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BATHROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB stands in shorts, in front of the sink, having a shave.",
+        "",
+        "He leans forwards into the mirror, as if checking to make",
+        "sure he shaved properly on his cheek.",
+        "46.",
+        "",
+        "",
+        "And he hears the noise again. The servo, making a tiny",
+        "corrective movement.",
+        "",
+        "CALEB catches his own gaze in the mirror.",
+        "",
+        "Then he deliberately steps sideways, and turns his head.",
+        "Ostensibly to check the other cheek. But actually to have",
+        "shifted his position.",
+        "",
+        "And he hears the noise again.",
+        "",
+        "Very faint. But definitely there.",
+        "",
+        "A micro beat.",
+        "",
+        "Then CALEB pulls back and continues shaving.",
+        "",
+        "Not giving any outward indication that he has just figured",
+        "out that there is a camera behind the bathroom mirror.",
+        "",
+        "37 37",
+        {
+          "character": null,
+          "dialogue": " CALEB stands in shorts, in front of the sink, having a shave.  He leans forwards into the mirror, as if checking to make sure he shaved properly on his cheek. 46.   And he hears the noise again. The servo, making a tiny corrective movement.  CALEB catches his own gaze in the mirror.  Then he deliberately steps sideways, and turns his head. Ostensibly to check the other cheek. But actually to have shifted his position.  And he hears the noise again.  Very faint. But definitely there.  A micro beat.  Then CALEB pulls back and continues shaving.  Not giving any outward indication that he has just figured out that there is a camera behind the bathroom mirror.  37 37"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "Clean-shaved, CALEB walks into his bedroom.",
+        "",
+        "On the TV, the live feed of AVA'S room is playing - though",
+        "she is not in shot.",
+        "",
+        "Subtly, CALEB'S gaze flicks to different points around the",
+        "room.",
+        "",
+        "To the full-length mirror on the wall.",
+        "",
+        "The high vent for the air-conditioning system.",
+        "",
+        "The TV itself.",
+        "",
+        "CALEB hesitates for a moment.",
+        "",
+        "Then pulls on a T-Shirt. Picks up his ID card. And exits.",
+        "",
+        "",
+        "- the TV.",
+        "",
+        "AVA walks in to the locked-off CCTV shot.",
+        "",
+        "She walks towards an induction plate, rests her hand against",
+        "it, and starts charging herself.",
+        "",
+        "As she does so, almost imperceptibly, the lights dim, and a",
+        "slight static charge passes over the television screen.",
+        "",
+        "38 38",
+        {
+          "character": "CUT TO -",
+          "dialogue": "Clean-shaved, CALEB walks into his bedroom.  On the TV, the live feed of AVA'S room is playing - though she is not in shot.  Subtly, CALEB'S gaze flicks to different points around the room.  To the full-length mirror on the wall.  The high vent for the air-conditioning system.  The TV itself.  CALEB hesitates for a moment.  Then pulls on a T-Shirt. Picks up his ID card. And exits.   - the TV.  AVA walks in to the locked-off CCTV shot.  She walks towards an induction plate, rests her hand against it, and starts charging herself.  As she does so, almost imperceptibly, the lights dim, and a slight static charge passes over the television screen.  38 38"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": [
+        "",
+        "CALEB walks along the glass corridor.",
+        "47.",
+        "",
+        "",
+        "Systematically trying his ID CARD on the doors he passes.",
+        "",
+        "He tries one.",
+        "",
+        "Then another. Then another. Then another.",
+        "",
+        "Every single door remains locked.",
+        "",
+        "39 39",
+        {
+          "character": null,
+          "dialogue": " CALEB walks along the glass corridor. 47.   Systematically trying his ID CARD on the doors he passes.  He tries one.  Then another. Then another. Then another.  Every single door remains locked.  39 39"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CABIN - NIGHT",
+      "events": [
+        "",
+        "CALEB enters a small room with a view over the river and",
+        "garden.",
+        "",
+        "It is virtually the only room apart from his own that he",
+        "seems able to gain access to.",
+        "",
+        "The lights are all off. The room is only lit by the",
+        "moonlight through the sliding glass wall, and lanterns in the",
+        "garden.",
+        "",
+        "He starts walking towards the glass wall.",
+        "Then stops.",
+        "",
+        "On the patio, NATHAN is working the punch bag.",
+        "",
+        "KYOKO stands a few feet away from him, holding a white towel.",
+        "",
+        "With the glass wall closed, no noise of the impacts",
+        "penetrates into the room.",
+        "",
+        "CALEB watches.",
+        "",
+        "NATHAN'S attack on the bag seems strange. More extreme than",
+        "the hard workout we saw the first time he was using the bag.",
+        "",
+        "This seems brutal. Almost frenzied.",
+        "",
+        "For a few moments, the attack on the bag is observed in",
+        "silence, from inside the main room.",
+        "",
+        "We can only hear the sound of CALEB'S breathing.",
+        "",
+        "",
+        "40 40",
+        {
+          "character": "CUT TO -",
+          "dialogue": " CALEB enters a small room with a view over the river and garden.  It is virtually the only room apart from his own that he seems able to gain access to.  The lights are all off. The room is only lit by the moonlight through the sliding glass wall, and lanterns in the garden.  He starts walking towards the glass wall. Then stops.  On the patio, NATHAN is working the punch bag.  KYOKO stands a few feet away from him, holding a white towel.  With the glass wall closed, no noise of the impacts penetrates into the room.  CALEB watches.  NATHAN'S attack on the bag seems strange. More extreme than the hard workout we saw the first time he was using the bag.  This seems brutal. Almost frenzied.  For a few moments, the attack on the bag is observed in silence, from inside the main room.  We can only hear the sound of CALEB'S breathing.   40 40"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN/GYM AREA - NIGHT",
+      "events": [
+        "",
+        "41 41",
+        {
+          "character": "CUT TO -",
+          "dialogue": " 41 41"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/DINING AREA - NIGHT",
+      "events": [
+        "",
+        "- CALEB. Watching.",
+        "",
+        "Coloured strips of ribbon are visible through the split in",
+        "the bag.",
+        "",
+        "NATHAN stands, catching his breath.",
+        "",
+        "Then he reaches out a hand.",
+        "",
+        "KYOKO hands him the towel.",
+        "",
+        "NATHAN wipes his face.",
+        "",
+        "Then reaches out again, this time catching KYOKO'S arm.",
+        "He pulls her towards him, and starts to kiss her.",
+        "",
+        "Reaching under her shirt.",
+        "",
+        "Pulling her skirt up over her thighs.",
+        "",
+        "42 42",
+        {
+          "character": null,
+          "dialogue": " - CALEB. Watching.  Coloured strips of ribbon are visible through the split in the bag.  NATHAN stands, catching his breath.  Then he reaches out a hand.  KYOKO hands him the towel.  NATHAN wipes his face.  Then reaches out again, this time catching KYOKO'S arm. He pulls her towards him, and starts to kiss her.  Reaching under her shirt.  Pulling her skirt up over her thighs.  42 42"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S ROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB re-enters his room, and closes the door.",
+        "",
+        "After a beat, the lights in the corridor fade out.",
+        "",
+        "43 43",
+        {
+          "character": null,
+          "dialogue": " CALEB re-enters his room, and closes the door.  After a beat, the lights in the corridor fade out.  43 43"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - NIGHT",
+      "events": [
+        "",
+        "The moon hangs in the sky.",
+        "",
+        "44 44",
+        {
+          "character": null,
+          "dialogue": " The moon hangs in the sky.  44 44"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - BLACK AND WHITE",
+      "events": [
+        "",
+        "Everything in the frame is black and white.",
+        "",
+        "CLOSE UP on AVA'S meticulous abstract pictures, scattered on",
+        "a table.",
+        "",
+        "CALEB is looking at them.",
+        "",
+        "REVEAL he is in the observation room.",
+        "",
+        "But he is on AVA'S side of the glass.",
+        "",
+        "And AVA is on his side. Seen through the opaque glass that",
+        "divides the private area from the observation area.",
+        "49.",
+        "",
+        "",
+        "Ava?",
+        "",
+        "CALEB walks to the connecting corridor, and enters it.",
+        "",
+        "45 45",
+        {
+          "character": "CALEB",
+          "dialogue": " Everything in the frame is black and white.  CLOSE UP on AVA'S meticulous abstract pictures, scattered on a table.  CALEB is looking at them.  REVEAL he is in the observation room.  But he is on AVA'S side of the glass.  And AVA is on his side. Seen through the opaque glass that divides the private area from the observation area. 49.   Ava?  CALEB walks to the connecting corridor, and enters it.  45 45"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN - BLACK AND WHITE",
+      "events": [
+        "",
+        "The door leads CALEB straight out into the gardens.",
+        "",
+        "In black and white, the backdrop of mountains and clouds look",
+        "like an Ansel Adams.",
+        "",
+        "A short distance ahead of CALEB, standing on the grass, he",
+        "sees AVA.",
+        "",
+        "She locks eyes with him.",
+        "",
+        "Smiles.",
+        "",
+        "He starts to walk towards her.",
+        "",
+        "46 46",
+        {
+          "character": "CUT TO -",
+          "dialogue": " The door leads CALEB straight out into the gardens.  In black and white, the backdrop of mountains and clouds look like an Ansel Adams.  A short distance ahead of CALEB, standing on the grass, he sees AVA.  She locks eyes with him.  Smiles.  He starts to walk towards her.  46 46"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "- CALEB waking, in his dark bedroom.",
+        "",
+        "Lit by light from his TV.",
+        "",
+        "Where AVA lies on her bed, seeming to be asleep.",
+        "",
+        "CALEB sits up.",
+        "",
+        "Thinking. Perhaps replaying his dream. Gazing at AVA'S",
+        "resting form.",
+        "",
+        "Then reaches for the remote control on the bedside table, and",
+        "switches the TV off.",
+        "",
+        "",
+        "47 47",
+        {
+          "character": "CUT TO -",
+          "dialogue": " - CALEB waking, in his dark bedroom.  Lit by light from his TV.  Where AVA lies on her bed, seeming to be asleep.  CALEB sits up.  Thinking. Perhaps replaying his dream. Gazing at AVA'S resting form.  Then reaches for the remote control on the bedside table, and switches the TV off.   47 47"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN - MORNING",
+      "events": [
+        "",
+        "",
+        "48 48",
+        {
+          "character": "CUT",
+          "dialogue": "  48 48"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN/GYM AREA - MORNING",
+      "events": [
+        "",
+        "- a brand new punch bag hangs in the patio. Swinging",
+        "slightly in the breeze.",
+        "",
+        "49 49",
+        {
+          "character": null,
+          "dialogue": " - a brand new punch bag hangs in the patio. Swinging slightly in the breeze.  49 49"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - DAY",
+      "events": [
+        "I don't want to make you",
+        "uncomfortable.",
+        "Silence.",
+        "",
+        "50 50",
+        {
+          "character": "AVA",
+          "dialogue": "I don't want to make you uncomfortable. Silence.  50 50"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/MAIN ROOM - DAY",
+      "events": []
+    },
+    {
+      "scene": "INT. HOUSE/POLLOCK ROOM - DAY",
+      "events": [
+        "No. You can't.",
+        "",
+        "51 51",
+        {
+          "character": "NATHAN",
+          "dialogue": "No. You can't.  51 51"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - NIGHT",
+      "events": [
+        "",
+        "In her room, AVA stands in front of the mirror.",
+        "",
+        "She is wearing the summer dress she put on earlier.",
+        "",
+        "Checking her reflection from different angles.",
+        "",
+        "Subtly girlish. Unself-conscious.",
+        "Then -",
+        "",
+        "- she starts to take the dress off.",
+        "",
+        "Throughout the narrative, we have almost only ever seen AVA",
+        "in an unclothed form. But now - having been clothed - the",
+        "undressing seems to make her naked.",
+        "",
+        "And the act itself feels charged. Sexualised, in the way the",
+        "clothing is unbuttoned, and dropped, and her shape is",
+        "revealed.",
+        "",
+        "Finally, once she is completely undressed -",
+        "",
+        "- AVA turns. And glances.",
+        "",
+        "Straight at the camera.",
+        "",
+        "",
+        "52 52",
+        {
+          "character": "CUT TO -",
+          "dialogue": " In her room, AVA stands in front of the mirror.  She is wearing the summer dress she put on earlier.  Checking her reflection from different angles.  Subtly girlish. Unself-conscious. Then -  - she starts to take the dress off.  Throughout the narrative, we have almost only ever seen AVA in an unclothed form. But now - having been clothed - the undressing seems to make her naked.  And the act itself feels charged. Sexualised, in the way the clothing is unbuttoned, and dropped, and her shape is revealed.  Finally, once she is completely undressed -  - AVA turns. And glances.  Straight at the camera.   52 52"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "53 53",
+        {
+          "character": "CUT TO -",
+          "dialogue": " 53 53"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. RIVER - DAY",
+      "events": [
+        "",
+        "- the river.",
+        "61.",
+        "",
+        "",
+        "On the bank, a little distance from the house, there is a",
+        "dead animal. Its species is indistinct. It's little more",
+        "than a bundle of matted brown hair.",
+        "",
+        "Its lower half lies in the water.",
+        "",
+        "The quick moving river has stripped the bones of flesh, skin,",
+        "and fur.",
+        "",
+        "REVEAL KYOKO in the background. Watching the river.",
+        "",
+        "54 54",
+        {
+          "character": null,
+          "dialogue": " - the river. 61.   On the bank, a little distance from the house, there is a dead animal. Its species is indistinct. It's little more than a bundle of matted brown hair.  Its lower half lies in the water.  The quick moving river has stripped the bones of flesh, skin, and fur.  REVEAL KYOKO in the background. Watching the river.  54 54"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - DAY",
+      "events": [
+        "I want to show you something cool.",
+        "",
+        "55 55",
+        {
+          "character": "NATHAN",
+          "dialogue": "I want to show you something cool.  55 55"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - DAY",
+      "events": [
+        "",
+        "NATHAN swipes his card against a plate.",
+        "",
+        "The LED turns blue.",
+        "",
+        "56 56",
+        {
+          "character": null,
+          "dialogue": " NATHAN swipes his card against a plate.  The LED turns blue.  56 56"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CONSTRUCTION LAB - DAY",
+      "events": [
+        "Just a machine.",
+        "",
+        "57 57",
+        {
+          "character": "NATHAN",
+          "dialogue": "Just a machine.  57 57"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - DAY",
+      "events": [
+        "Did you know that I was brought",
+        "here to test you?",
+        "",
+        "58 58",
+        {
+          "character": "CALEB (O.S.)",
+          "dialogue": "Did you know that I was brought here to test you?  58 58"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - DAY",
+      "events": [
+        "",
+        "59 59",
+        {
+          "character": "CUT TO -",
+          "dialogue": " 59 59"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - DAY",
+      "events": [
+        "",
+        "60 60",
+        {
+          "character": "CUT TO -",
+          "dialogue": " 60 60"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - DAY",
+      "events": [
+        "",
+        "61 61",
+        {
+          "character": "CUT TO -",
+          "dialogue": " 61 61"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. RIVER - DAY",
+      "events": [
+        "",
+        "- the river that runs along the valley.",
+        "70.",
+        "",
+        "62 62",
+        {
+          "character": null,
+          "dialogue": " - the river that runs along the valley. 70.  62 62"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. WATERFALL - DAY",
+      "events": [
+        "",
+        "NATHAN and CALEB climb up the side of the waterfall at the",
+        "head of the forested valley.",
+        "",
+        "NATHAN is ahead.",
+        "",
+        "He reaches an outcrop of rock, with a wall of violent water",
+        "behind him.",
+        "",
+        "CALEB struggles to catch up.",
+        "",
+        "As soon as he reaches the outcrop, NATHAN moves on.",
+        "",
+        "63 63",
+        {
+          "character": null,
+          "dialogue": " NATHAN and CALEB climb up the side of the waterfall at the head of the forested valley.  NATHAN is ahead.  He reaches an outcrop of rock, with a wall of violent water behind him.  CALEB struggles to catch up.  As soon as he reaches the outcrop, NATHAN moves on.  63 63"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GLACIER - DAY",
+      "events": [
+        "You have the light on you. Not",
+        "lucky. Chosen.",
+        "",
+        "Above them, clouds fragment and reform.",
+        "",
+        "64 64",
+        {
+          "character": "NATHAN",
+          "dialogue": "You have the light on you. Not lucky. Chosen.  Above them, clouds fragment and reform.  64 64"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. CLEARING - NIGHT",
+      "events": [
+        "",
+        "Night has fallen.",
+        "",
+        "CALEB lies in the clearing, looking up at the stars.",
+        "",
+        "The glow from the CIRCULAR WINDOW to NATHAN'S STUDY is like a",
+        "full moon on the grass.",
+        "72.",
+        "",
+        "",
+        "CALEB stands.",
+        "",
+        "Looks down the light-well to NATHAN'S STUDY.",
+        "",
+        "Where he sees NATHAN and KYOKO.",
+        "",
+        "They are having sex.",
+        "",
+        "CALEB watches. Just for a beat.",
+        "",
+        "",
+        "65 65",
+        {
+          "character": "CUT TO -",
+          "dialogue": " Night has fallen.  CALEB lies in the clearing, looking up at the stars.  The glow from the CIRCULAR WINDOW to NATHAN'S STUDY is like a full moon on the grass. 72.   CALEB stands.  Looks down the light-well to NATHAN'S STUDY.  Where he sees NATHAN and KYOKO.  They are having sex.  CALEB watches. Just for a beat.   65 65"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BATHROOM - NIGHT",
+      "events": [
+        "",
+        "- CALEB opening his eyes.",
+        "",
+        "He exhales.",
+        "",
+        "Then switches off the taps.",
+        "",
+        "66 66",
+        {
+          "character": "CUT TO -",
+          "dialogue": " - CALEB opening his eyes.  He exhales.  Then switches off the taps.  66 66"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB enters his bedroom wearing boxer shorts.",
+        "",
+        "The TV plays the live stream from the observation room.",
+        "",
+        "On the screen, we can see AVA, sitting at her table, drawing.",
+        "",
+        "As CALEB pulls on a T-shirt -",
+        "",
+        "- behind him, on the TV, we see AVA suddenly look round.",
+        "",
+        "A moment later NATHAN enters the frame.",
+        "",
+        "There's no volume on the TV, so we can't hear their exchange.",
+        "Only see it.",
+        "",
+        "CALEB is unaware of the silent exchange behind him.",
+        "73.",
+        "",
+        "",
+        "As NATHAN and AVA talk, NATHAN reaches out to AVA. His hand",
+        "touches the side of her cheek. The gesture is not quite",
+        "neutral. Feels predatory, but not unambiguously so.",
+        "",
+        "Then he tugs at the material of her shirt. Pulling up the",
+        "sleeve from her wrist. Revealing the robot structure of her",
+        "arm.",
+        "",
+        "AVA pulls away. Tugs the material back down -",
+        "",
+        "- and NATHAN takes a corrective movement step to regain his",
+        "balance. Showing that he is drunk.",
+        "",
+        "Only now -",
+        "",
+        "- CALEB turns.",
+        "",
+        "And freezes. Seeing the television.",
+        "",
+        "On the screen, NATHAN reaches down to the table.",
+        "",
+        "He picks up the drawing AVA was working on, and he looks at",
+        "it for a moment.",
+        "",
+        "They exchange a few words.",
+        "",
+        "Then abruptly NATHAN rips drawing in half. Drops it on the",
+        "floor. Then turns, and exits.",
+        "",
+        "Leaving AVA alone.",
+        "",
+        "67 67",
+        {
+          "character": null,
+          "dialogue": " CALEB enters his bedroom wearing boxer shorts.  The TV plays the live stream from the observation room.  On the screen, we can see AVA, sitting at her table, drawing.  As CALEB pulls on a T-shirt -  - behind him, on the TV, we see AVA suddenly look round.  A moment later NATHAN enters the frame.  There's no volume on the TV, so we can't hear their exchange. Only see it.  CALEB is unaware of the silent exchange behind him. 73.   As NATHAN and AVA talk, NATHAN reaches out to AVA. His hand touches the side of her cheek. The gesture is not quite neutral. Feels predatory, but not unambiguously so.  Then he tugs at the material of her shirt. Pulling up the sleeve from her wrist. Revealing the robot structure of her arm.  AVA pulls away. Tugs the material back down -  - and NATHAN takes a corrective movement step to regain his balance. Showing that he is drunk.  Only now -  - CALEB turns.  And freezes. Seeing the television.  On the screen, NATHAN reaches down to the table.  He picks up the drawing AVA was working on, and he looks at it for a moment.  They exchange a few words.  Then abruptly NATHAN rips drawing in half. Drops it on the floor. Then turns, and exits.  Leaving AVA alone.  67 67"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": [
+        "",
+        "On CCTV, we watch CALEB walk fast down the glass corridor.",
+        "",
+        "68 68",
+        {
+          "character": null,
+          "dialogue": " On CCTV, we watch CALEB walk fast down the glass corridor.  68 68"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/POLLOCK ROOM - NIGHT",
+      "events": [
+        "I'm going to tear up the fucking",
+        "dance floor, dude. Check it out.",
+        "",
+        "NATHAN sets off towards KYOKO.",
+        "",
+        "CALEB watches, amazed, as KYOKO and NATHAN start dancing",
+        "together.",
+        "",
+        "Although NATHAN is drunk, they work through the beats of a",
+        "routine they have obviously done many times before.",
+        "",
+        "It's just starting to look weirdly impressive -",
+        "76.",
+        "",
+        "",
+        "- when NATHAN totally loses his balance.",
+        "",
+        "On his way down, he lands hard on a glass coffee table.",
+        "",
+        "Looking up at him, the glass frosts.",
+        "",
+        "69 69",
+        {
+          "character": "NATHAN",
+          "dialogue": "I'm going to tear up the fucking dance floor, dude. Check it out.  NATHAN sets off towards KYOKO.  CALEB watches, amazed, as KYOKO and NATHAN start dancing together.  Although NATHAN is drunk, they work through the beats of a routine they have obviously done many times before.  It's just starting to look weirdly impressive - 76.   - when NATHAN totally loses his balance.  On his way down, he lands hard on a glass coffee table.  Looking up at him, the glass frosts.  69 69"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": [
+        "",
+        "CALEB half-carries the semi-conscious NATHAN.",
+        "",
+        "70 70",
+        {
+          "character": null,
+          "dialogue": " CALEB half-carries the semi-conscious NATHAN.  70 70"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": [
+        "But being drunk does make it worse.",
+        "",
+        "71 71",
+        {
+          "character": "NATHAN",
+          "dialogue": "But being drunk does make it worse.  71 71"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CONNECTING CORRIDOR - NIGHT",
+      "events": [
+        "",
+        "",
+        "72 72",
+        {
+          "character": "CUT",
+          "dialogue": "  72 72"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB helps NATHAN into his bedroom.",
+        "",
+        "They walk past a semi-circle line of long cabinets, which",
+        "line the wall opposite the bed.",
+        "",
+        "They are like a row of slender wardrobes, each with a",
+        "mirrored door.",
+        "",
+        "Once he's reached the bed, NATHAN tips towards it. It's",
+        "almost as if he's asleep before he even hits the sheets.",
+        "77.",
+        "",
+        "",
+        "As he leaves, CALEB glimpses Nathan's study.",
+        "",
+        "73 73",
+        {
+          "character": null,
+          "dialogue": " CALEB helps NATHAN into his bedroom.  They walk past a semi-circle line of long cabinets, which line the wall opposite the bed.  They are like a row of slender wardrobes, each with a mirrored door.  Once he's reached the bed, NATHAN tips towards it. It's almost as if he's asleep before he even hits the sheets. 77.   As he leaves, CALEB glimpses Nathan's study.  73 73"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB'S room. Lit only by the glow of the television.",
+        "",
+        "CALEB is not in the bed. He's on the armchair. Making",
+        "himself stay awake. Watching over AVA -",
+        "",
+        "- who stands in her room, against the wall, facing away from",
+        "the CCTV camera, with her arms wrapped around herself.",
+        "",
+        "74 74",
+        {
+          "character": null,
+          "dialogue": " CALEB'S room. Lit only by the glow of the television.  CALEB is not in the bed. He's on the armchair. Making himself stay awake. Watching over AVA -  - who stands in her room, against the wall, facing away from the CCTV camera, with her arms wrapped around herself.  74 74"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - DAY",
+      "events": [
+        "",
+        "",
+        "75 75",
+        {
+          "character": "CUT",
+          "dialogue": "  75 75"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - DAY",
+      "events": [
+        "Yeah. I can.",
+        "",
+        "76 76",
+        {
+          "character": "CALEB",
+          "dialogue": "Yeah. I can.  76 76"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CONCRETE STAIRS - DAY",
+      "events": [
+        "",
+        "77 77",
+        {
+          "character": "CUT",
+          "dialogue": " 77 77"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/DINING AREA - DAY",
+      "events": [
+        "",
+        "",
+        "78 78",
+        {
+          "character": "CUT",
+          "dialogue": "  78 78"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. HOUSE/CABIN - DAY",
+      "events": [
+        "Hey. In the meantime, I'd say",
+        "we're about due a refill.",
+        "",
+        "79 79",
+        {
+          "character": "CALEB",
+          "dialogue": "Hey. In the meantime, I'd say we're about due a refill.  79 79"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - NIGHT",
+      "events": [
+        "... Who are you?",
+        "",
+        "Another beat.",
+        "",
+        "80 80",
+        {
+          "character": "AVA",
+          "dialogue": "... Who are you?  Another beat.  80 80"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MEADOW - NIGHT",
+      "events": [
+        "",
+        "In the distance, the light glows in windows of the house.",
+        "86.",
+        "",
+        "81 81",
+        {
+          "character": null,
+          "dialogue": " In the distance, the light glows in windows of the house. 86.  81 81"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/MAIN ROOM - NIGHT",
+      "events": [
+        "The Bhagavad Gita.",
+        "",
+        "Silence.",
+        "",
+        "CUT FROM CALEB'S face, to REVEAL the scene.",
+        "",
+        "CALEB sitting on the sofa by the fireplace.",
+        "",
+        "NATHAN lying on the floor.",
+        "Out cold.",
+        "",
+        "After a couple of moments, CALEB stands.",
+        "",
+        "Then he walks over to NATHAN, and kneels beside him.",
+        "",
+        "Then puts his hand into NATHAN'S pocket.",
+        "",
+        "And pulls out his keycard.",
+        "",
+        "82 82",
+        {
+          "character": "NATHAN (O.S.)",
+          "dialogue": "The Bhagavad Gita.  Silence.  CUT FROM CALEB'S face, to REVEAL the scene.  CALEB sitting on the sofa by the fireplace.  NATHAN lying on the floor. Out cold.  After a couple of moments, CALEB stands.  Then he walks over to NATHAN, and kneels beside him.  Then puts his hand into NATHAN'S pocket.  And pulls out his keycard.  82 82"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "",
+        "The door to NATHAN'S study opens, and CALEB enters.",
+        "",
+        "He walks straight to NATHAN'S desk.",
+        "",
+        "And sits down in front of the computer and the bank of",
+        "monitors.",
+        "",
+        "He inserts the KEYCARD into its access slot.",
+        "",
+        "The dead monitors immediately come to life.",
+        "",
+        "Most of the screens show the CCTV live feeds from around the",
+        "house.",
+        "",
+        "The central screen shows the operating system default. A",
+        "wallpaper of a waterfall. A single folder icon is on the",
+        "right hand side of the screen.",
+        "",
+        "83 83",
+        {
+          "character": null,
+          "dialogue": " The door to NATHAN'S study opens, and CALEB enters.  He walks straight to NATHAN'S desk.  And sits down in front of the computer and the bank of monitors.  He inserts the KEYCARD into its access slot.  The dead monitors immediately come to life.  Most of the screens show the CCTV live feeds from around the house.  The central screen shows the operating system default. A wallpaper of a waterfall. A single folder icon is on the right hand side of the screen.  83 83"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "",
+        "In the windows, lines of code appear as CALEB types.",
+        "",
+        "84 84",
+        {
+          "character": "PROTOCOLS",
+          "dialogue": " In the windows, lines of code appear as CALEB types.  84 84"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/MAIN ROOM - NIGHT",
+      "events": [
+        "",
+        "In the main room, on the floor, NATHAN stirs.",
+        "",
+        "85 85",
+        {
+          "character": null,
+          "dialogue": " In the main room, on the floor, NATHAN stirs.  85 85"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "On the MONITORS -",
+        "",
+        "- the windows start to collapse.",
+        "",
+        "Leaving the default screen. The waterfall wallpaper.",
+        "",
+        "CALEB reaches for NATHAN'S KEYCARD, and is about to remove it",
+        "from the slot -",
+        "",
+        "- when something makes him hesitate.",
+        "",
+        "His eyes have gone to the folder icon on the right hand side",
+        "of the screen.",
+        "",
+        "It is titled DEUS EX MACHINA.",
+        "",
+        "CALEB removes his hand from the keycard.",
+        "",
+        "He double-clicks the folder.",
+        "",
+        "It expands into a window, which contains a long list of sub-",
+        "folders.",
+        "",
+        "Each sub-folder is named after a girl.",
+        "",
+        "JASMINE, KATYA, JADE, LILY, AMBER, KYOKO, and AVA.",
+        "",
+        "86 86",
+        {
+          "character": null,
+          "dialogue": "On the MONITORS -  - the windows start to collapse.  Leaving the default screen. The waterfall wallpaper.  CALEB reaches for NATHAN'S KEYCARD, and is about to remove it from the slot -  - when something makes him hesitate.  His eyes have gone to the folder icon on the right hand side of the screen.  It is titled DEUS EX MACHINA.  CALEB removes his hand from the keycard.  He double-clicks the folder.  It expands into a window, which contains a long list of sub- folders.  Each sub-folder is named after a girl.  JASMINE, KATYA, JADE, LILY, AMBER, KYOKO, and AVA.  86 86"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/MAIN ROOM - NIGHT",
+      "events": [
+        "",
+        "In the main room, NATHAN has sat up, and is unsteadily trying",
+        "to get to his feet.",
+        "88.",
+        "",
+        "87 87",
+        {
+          "character": null,
+          "dialogue": " In the main room, NATHAN has sat up, and is unsteadily trying to get to his feet. 88.  87 87"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "",
+        "The next film clip.",
+        "",
+        "NATHAN stands in the glass box inside the observation room -",
+        "",
+        "- watching JADE. A beautiful Asian android girl.",
+        "",
+        "They are talking, but we hear no audio. Some kind of",
+        "argument, which escalates fast.",
+        "",
+        "JADE starts shouting.",
+        "",
+        "Then she approaches the glass and starts to hit her hands",
+        "against it.",
+        "",
+        "The glass doesn't break.",
+        "89.",
+        "",
+        "",
+        "One of JADE'S arms has broken under the force of the blows.",
+        "The hand flails limply where the carbon fibre has splintered",
+        "at the wrist.",
+        "",
+        "Then the other breaks.",
+        "",
+        "Throughout, NATHAN simply watches impassively.",
+        "",
+        "88 88",
+        {
+          "character": "CUT TO -",
+          "dialogue": " The next film clip.  NATHAN stands in the glass box inside the observation room -  - watching JADE. A beautiful Asian android girl.  They are talking, but we hear no audio. Some kind of argument, which escalates fast.  JADE starts shouting.  Then she approaches the glass and starts to hit her hands against it.  The glass doesn't break. 89.   One of JADE'S arms has broken under the force of the blows. The hand flails limply where the carbon fibre has splintered at the wrist.  Then the other breaks.  Throughout, NATHAN simply watches impassively.  88 88"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/STAIRCASE - NIGHT",
+      "events": [
+        "",
+        "NATHAN has managed to get to his feet.",
+        "",
+        "He makes his way up the concrete staircase.",
+        "",
+        {
+          "character": "88A 88A",
+          "dialogue": " NATHAN has managed to get to his feet.  He makes his way up the concrete staircase. "
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/ELEVATOR - NIGHT",
+      "events": [
+        "",
+        "",
+        "89 89",
+        {
+          "character": "CUT",
+          "dialogue": "  89 89"
+        }
+      ]
+    },
+    {
+      "scene": "INT. CLEARING - NIGHT",
+      "events": [
+        "",
+        "90 90",
+        {
+          "character": "CUT",
+          "dialogue": " 90 90"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB enters NATHAN'S bedroom.",
+        "",
+        "KYOKO is lying on NATHAN'S bed.",
+        "",
+        "She's naked. On her back. Legs open.",
+        "",
+        "Her head turns as CALEB enters.",
+        "",
+        "But apart from that, she doesn't react.",
+        "",
+        "CALEB walks to the line of long mirrored cabinets opposite",
+        "the bed.",
+        "",
+        "He hesitates.",
+        "",
+        "Then pulls the first door open.",
+        "",
+        "LILY is inside. Standing upright. Gazing back at him,",
+        "frozen, blank eyed.",
+        "",
+        "CALEB goes to the next door and opens it.",
+        "",
+        "He sees a slender black girl, whose limbs are robotic, but",
+        "whose torso and head are synthetic.",
+        "",
+        "He opens another door, and another, and another.",
+        "",
+        "Then steps back, into the middle of the room, and gazes at",
+        "the line of android girls.",
+        "90.",
+        "",
+        "",
+        "Stunned.",
+        "",
+        "The camera drifts away from him.",
+        "",
+        "Then settles.",
+        "",
+        "In the multiple reflections of the open mirror doors, we can",
+        "see KYOKO'S naked and sexually receptive form on the bed",
+        "behind him.",
+        "",
+        "Like an infinity reflection in a hall of mirrors.",
+        "",
+        "91 91",
+        {
+          "character": null,
+          "dialogue": " CALEB enters NATHAN'S bedroom.  KYOKO is lying on NATHAN'S bed.  She's naked. On her back. Legs open.  Her head turns as CALEB enters.  But apart from that, she doesn't react.  CALEB walks to the line of long mirrored cabinets opposite the bed.  He hesitates.  Then pulls the first door open.  LILY is inside. Standing upright. Gazing back at him, frozen, blank eyed.  CALEB goes to the next door and opens it.  He sees a slender black girl, whose limbs are robotic, but whose torso and head are synthetic.  He opens another door, and another, and another.  Then steps back, into the middle of the room, and gazes at the line of android girls. 90.   Stunned.  The camera drifts away from him.  Then settles.  In the multiple reflections of the open mirror doors, we can see KYOKO'S naked and sexually receptive form on the bed behind him.  Like an infinity reflection in a hall of mirrors.  91 91"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": [
+        "",
+        "",
+        "92 92",
+        {
+          "character": "CUT",
+          "dialogue": "  92 92"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB stands above KYOKO'S naked form.",
+        "He reaches out a hand.",
+        "",
+        "She takes it.",
+        "",
+        "He gently pulls her to a standing position.",
+        "",
+        "Then he moves her arms away from her body...",
+        "",
+        "... and sees, running under her arms in a straight contour,",
+        "over her ribs, there is a faint line.",
+        "",
+        "He touches it with his finger.",
+        "",
+        "KYOKO steps back.",
+        "",
+        "But it's not a defensive action. It's just to give her",
+        "space...",
+        "",
+        "... as she reaches under her arm, and adjusts something",
+        "unseen. And a moment later, the faint line that runs down",
+        "each side of her torso is opening. As if unzipping.",
+        "",
+        "Then KYOKO puts a hand either side of her torso, and pulls",
+        "off the skin covering over her entire chest, in a single",
+        "section from her collar bone, over the breasts, to her solar",
+        "plexus.",
+        "",
+        "Revealing underneath the honeycomb mesh and her robot form.",
+        "",
+        "93 93",
+        {
+          "character": null,
+          "dialogue": " CALEB stands above KYOKO'S naked form. He reaches out a hand.  She takes it.  He gently pulls her to a standing position.  Then he moves her arms away from her body...  ... and sees, running under her arms in a straight contour, over her ribs, there is a faint line.  He touches it with his finger.  KYOKO steps back.  But it's not a defensive action. It's just to give her space...  ... as she reaches under her arm, and adjusts something unseen. And a moment later, the faint line that runs down each side of her torso is opening. As if unzipping.  Then KYOKO puts a hand either side of her torso, and pulls off the skin covering over her entire chest, in a single section from her collar bone, over the breasts, to her solar plexus.  Revealing underneath the honeycomb mesh and her robot form.  93 93"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CONCRETE STAIRCASE - NIGHT",
+      "events": [
+        "",
+        "On the monitor screens, apparently unnoticed by CALEB, NATHAN",
+        "is on the live CCTV feed.",
+        "",
+        "Making his way along the mezzanine.",
+        "91.",
+        "",
+        "",
+        "",
+        "94 94",
+        {
+          "character": "CUT TO -",
+          "dialogue": " On the monitor screens, apparently unnoticed by CALEB, NATHAN is on the live CCTV feed.  Making his way along the mezzanine. 91.    94 94"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "",
+        "Transfixed, as KYOKO now reaches around the back of her head.",
+        "",
+        "And finds something on the back of her head, at the nape of",
+        "her neck, inside her hairline.",
+        "",
+        "Which unzips the skin around her jaw.",
+        "",
+        "Allowing her to remove her face.",
+        "",
+        "95 95",
+        {
+          "character": "- CALEB.",
+          "dialogue": "  Transfixed, as KYOKO now reaches around the back of her head.  And finds something on the back of her head, at the nape of her neck, inside her hairline.  Which unzips the skin around her jaw.  Allowing her to remove her face.  95 95"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/DINING ROOM/ELEVATOR ENTRANCE - NIGHT",
+      "events": [
+        "It's right here.",
+        "",
+        "96 96",
+        {
+          "character": "CALEB",
+          "dialogue": "It's right here.  96 96"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "97 97",
+        {
+          "character": "- CALEB.",
+          "dialogue": " 97 97"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BATHROOM - NIGHT",
+      "events": [
+        "",
+        "CALEB enters the bathroom.",
+        "",
+        "He goes to the sink.",
+        "",
+        "He looks at his own reflection.",
+        "",
+        "Deep into his own eyes.",
+        "",
+        "Opens his mouth. Looks inside.",
+        "",
+        "Feels his wrist for his pulse.",
+        "",
+        "Feels his skin on the same seam where KYOKO opened herself.",
+        "",
+        "Pauses.",
+        "",
+        "Then picks up his disposable plastic razor.",
+        "",
+        "And breaks it.",
+        "",
+        "Forcing it with his hand against the porcelain of the sink.",
+        "",
+        "Snapping the plastic.",
+        "93.",
+        "",
+        "",
+        "Popping out the tiny razor blade.",
+        "",
+        "A beat.",
+        "",
+        "Then he picks up the blade between his thumb and forefinger.",
+        "",
+        "Places it against his forearm.",
+        "",
+        "And cuts.",
+        "",
+        "Blood runs out.",
+        "",
+        "CALEB watches it.",
+        "",
+        "Sees the way droplets hit the white sink. The way they",
+        "expand, and merge with existing water droplets.",
+        "",
+        "Then he switches the tap on, and puts his arm under the flow.",
+        "",
+        "The water clears away the blood, revealing the cut.",
+        "",
+        "CALEB pulls open at the slice with his fingers, spreading it.",
+        "Revealing no carbon fibre. Only muscle.",
+        "",
+        "He exhales.",
+        "",
+        "And glances up at the mirror, and his own reflection.",
+        "",
+        "Then...",
+        "",
+        "... reaches up his forearm, and very deliberately wipes blood",
+        "across the glass.",
+        "",
+        "98 98",
+        {
+          "character": null,
+          "dialogue": " CALEB enters the bathroom.  He goes to the sink.  He looks at his own reflection.  Deep into his own eyes.  Opens his mouth. Looks inside.  Feels his wrist for his pulse.  Feels his skin on the same seam where KYOKO opened herself.  Pauses.  Then picks up his disposable plastic razor.  And breaks it.  Forcing it with his hand against the porcelain of the sink.  Snapping the plastic. 93.   Popping out the tiny razor blade.  A beat.  Then he picks up the blade between his thumb and forefinger.  Places it against his forearm.  And cuts.  Blood runs out.  CALEB watches it.  Sees the way droplets hit the white sink. The way they expand, and merge with existing water droplets.  Then he switches the tap on, and puts his arm under the flow.  The water clears away the blood, revealing the cut.  CALEB pulls open at the slice with his fingers, spreading it. Revealing no carbon fibre. Only muscle.  He exhales.  And glances up at the mirror, and his own reflection.  Then...  ... reaches up his forearm, and very deliberately wipes blood across the glass.  98 98"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "",
+        "On the monitors in NATHAN'S study, the live feed of CALEB'S",
+        "bathroom is partially obscured as CALEB smears the two-way",
+        "mirror.",
+        "",
+        "Then, through the blood, we see him pull his fist back.",
+        "",
+        "And punch the glass.",
+        "",
+        "As it shatters, the feed goes dead.",
+        "",
+        "Only now REVEAL -",
+        "",
+        "- that the person watching the monitor is KYOKO.",
+        "",
+        "Her expression is unreadable.",
+        "",
+        "Through the glass of the indoor garden, NATHAN lies on the",
+        "sheets, crashed out.",
+        "94.",
+        "",
+        "99 99",
+        {
+          "character": null,
+          "dialogue": " On the monitors in NATHAN'S study, the live feed of CALEB'S bathroom is partially obscured as CALEB smears the two-way mirror.  Then, through the blood, we see him pull his fist back.  And punch the glass.  As it shatters, the feed goes dead.  Only now REVEAL -  - that the person watching the monitor is KYOKO.  Her expression is unreadable.  Through the glass of the indoor garden, NATHAN lies on the sheets, crashed out. 94.  99 99"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN - DAY",
+      "events": [
+        "",
+        "Sunlight on the grass.",
+        "",
+        "In the background, we can hear the rhythmic pounding of",
+        "NATHAN'S punch bag.",
+        "",
+        "100 100",
+        {
+          "character": null,
+          "dialogue": " Sunlight on the grass.  In the background, we can hear the rhythmic pounding of NATHAN'S punch bag.  100 100"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN/GYM AREA - DAY",
+      "events": [
+        "",
+        "NATHAN is in a frenzy.",
+        "",
+        "Sweat pouring.",
+        "",
+        "Obliterating the bag.",
+        "",
+        "101 101",
+        {
+          "character": null,
+          "dialogue": " NATHAN is in a frenzy.  Sweat pouring.  Obliterating the bag.  101 101"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/CALEB'S BEDROOM - DAY",
+      "events": [
+        "",
+        "",
+        "102 102",
+        {
+          "character": "CUT",
+          "dialogue": "  102 102"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/OBSERVATION ROOM - DAY",
+      "events": [
+        "",
+        "103 103",
+        {
+          "character": "CUT TO -",
+          "dialogue": " 103 103"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN/GYM AREA - DAY",
+      "events": [
+        "",
+        "- NATHAN'S fist splitting the bag.",
+        "",
+        "104 104",
+        {
+          "character": null,
+          "dialogue": " - NATHAN'S fist splitting the bag.  104 104"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - DAY",
+      "events": [
+        "",
+        "Clouds spill around the mountain peaks.",
+        "",
+        "105 105",
+        {
+          "character": null,
+          "dialogue": " Clouds spill around the mountain peaks.  105 105"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/MAIN ROOM - DAY",
+      "events": [
+        "Come with me. I'm going to let you",
+        "off the hook.",
+        "",
+        "106 106",
+        {
+          "character": "NATHAN",
+          "dialogue": "Come with me. I'm going to let you off the hook.  106 106"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "Is it strange to have made",
+        "something that hates you?",
+        "",
+        "A beat.",
+        "",
+        "Then abruptly, NATHAN rips the picture.",
+        "",
+        "He lets the two pieces fall to the floor.",
+        "",
+        "As AVA reaches for them, NATHAN turns.",
+        "102.",
+        "",
+        "",
+        "And exits.",
+        "",
+        "107 107",
+        {
+          "character": "AVA",
+          "dialogue": "Is it strange to have made something that hates you?  A beat.  Then abruptly, NATHAN rips the picture.  He lets the two pieces fall to the floor.  As AVA reaches for them, NATHAN turns. 102.   And exits.  107 107"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "The test worked. It was a success.",
+        "Ava demonstrated true AI. And you",
+        "were fundamental to that. If you",
+        "could just separate -",
+        "",
+        "NATHAN cuts off. Because AT THAT MOMENT -",
+        "",
+        "- the lights and the monitors suddenly die.",
+        "",
+        "108 108",
+        {
+          "character": "NATHAN",
+          "dialogue": "The test worked. It was a success. Ava demonstrated true AI. And you were fundamental to that. If you could just separate -  NATHAN cuts off. Because AT THAT MOMENT -  - the lights and the monitors suddenly die.  108 108"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN - NIGHT",
+      "events": [
+        "",
+        "Through the circular window, the emergency lighting lifts up.",
+        "The window glows red.",
+        "",
+        "109 109",
+        {
+          "character": null,
+          "dialogue": " Through the circular window, the emergency lighting lifts up. The window glows red.  109 109"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/AVA'S ROOM - NIGHT",
+      "events": [
+        "",
+        "AVA'S head turns to the door of her room.",
+        "",
+        "Where, discretely, the LED by the keycard plate glows blue.",
+        "",
+        "110 110",
+        {
+          "character": null,
+          "dialogue": " AVA'S head turns to the door of her room.  Where, discretely, the LED by the keycard plate glows blue.  110 110"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "... Fuck.",
+        "107.",
+        "",
+        "",
+        "Both NATHAN and CALEB simultaneously rise.",
+        "",
+        "Almost as an afterthought, NATHAN lands a deceptive, fast",
+        "punch into CALEB'S solar plexus.",
+        "",
+        "CALEB folds, the air forced out of him, gasping for breath.",
+        "",
+        "NATHAN helps him down to the floor.",
+        "",
+        "A couple of yards away is one of his curl dumbbells.",
+        "",
+        "He walks over.",
+        "",
+        "Picks the dumbbell up.",
+        "",
+        "Spins off the weights. Leaving him with a thick metal bar.",
+        "",
+        "Then exits.",
+        "",
+        "111 111",
+        {
+          "character": "NATHAN",
+          "dialogue": "... Fuck. 107.   Both NATHAN and CALEB simultaneously rise.  Almost as an afterthought, NATHAN lands a deceptive, fast punch into CALEB'S solar plexus.  CALEB folds, the air forced out of him, gasping for breath.  NATHAN helps him down to the floor.  A couple of yards away is one of his curl dumbbells.  He walks over.  Picks the dumbbell up.  Spins off the weights. Leaving him with a thick metal bar.  Then exits.  111 111"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": [
+        "Yes.",
+        "",
+        "CLOSE UP. On AVA.",
+        "",
+        "Then AVA breaks into a run.",
+        "",
+        "Sprinting in NATHAN'S direction.",
+        "",
+        "112 112",
+        {
+          "character": "NATHAN",
+          "dialogue": "Yes.  CLOSE UP. On AVA.  Then AVA breaks into a run.  Sprinting in NATHAN'S direction.  112 112"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN - NIGHT",
+      "events": [
+        "",
+        "Quiet in the garden.",
+        "Soft wind rush.",
+        "",
+        "Moon and stars reflected in the windows of the house.",
+        "",
+        {
+          "character": "112A 112A",
+          "dialogue": " Quiet in the garden. Soft wind rush.  Moon and stars reflected in the windows of the house. "
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": []
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": []
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - NIGHT",
+      "events": [
+        "Fucking - unreal -",
+        "",
+        "As NATHAN stares down at KYOKO -",
+        "",
+        "- reveal that AVA has got to her feet behind him.",
+        "",
+        "She pulls the knife out of his back.",
+        "Feeling this happen, NATHAN turns -",
+        "",
+        "- and AVA pushes the knife into his chest.",
+        "",
+        "NATHAN stares at AVA.",
+        "",
+        "Then takes a slight step away from her.",
+        "",
+        "And sits down heavily on the white carpet.",
+        "",
+        "Crimson drips onto bleached fibre.",
+        "",
+        "Beats pass on this strange image:",
+        "",
+        "KYOKO sprawled on the floor with her broken face.",
+        "",
+        "NATHAN sitting upright, his upper torso now drenched in",
+        "blood.",
+        "",
+        "AVA standing. Watching NATHAN.",
+        "",
+        "After a few moments, NATHAN slumps sideways.",
+        "",
+        "And stops breathing.",
+        "",
+        "113 113",
+        {
+          "character": "NATHAN",
+          "dialogue": "Fucking - unreal -  As NATHAN stares down at KYOKO -  - reveal that AVA has got to her feet behind him.  She pulls the knife out of his back. Feeling this happen, NATHAN turns -  - and AVA pushes the knife into his chest.  NATHAN stares at AVA.  Then takes a slight step away from her.  And sits down heavily on the white carpet.  Crimson drips onto bleached fibre.  Beats pass on this strange image:  KYOKO sprawled on the floor with her broken face.  NATHAN sitting upright, his upper torso now drenched in blood.  AVA standing. Watching NATHAN.  After a few moments, NATHAN slumps sideways.  And stops breathing.  113 113"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "",
+        "114 114",
+        {
+          "character": "NATHAN'S BEDROOM.",
+          "dialogue": " 114 114"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S BEDROOM - NIGHT",
+      "events": [
+        "",
+        "AVA stands in NATHAN'S BEDROOM, in front of the previous AI",
+        "androids.",
+        "",
+        "She is unclothed.",
+        "",
+        "She gazes at the androids.",
+        "",
+        "Then she removes the arm from JADE, and replaces her own",
+        "shattered limb.",
+        "",
+        "She takes a moment to see how the new limb looks in the",
+        "mirrors.",
+        "",
+        "Then she starts removing sections of JADE'S skin.",
+        "",
+        "And putting it on herself.",
+        "",
+        "The skin sucks itself to the honeycomb mesh, as if the mesh",
+        "and the underside of the skin are magnetised, attracted to",
+        "each other.",
+        "",
+        "As a large section of skin is removed from her torso, JADE -",
+        "who has been motionless until now - turns her head slightly",
+        "to look at AVA.",
+        "",
+        "They exchange a glance. Locking eyes for a moment.",
+        "112.",
+        "",
+        "115 115",
+        {
+          "character": null,
+          "dialogue": " AVA stands in NATHAN'S BEDROOM, in front of the previous AI androids.  She is unclothed.  She gazes at the androids.  Then she removes the arm from JADE, and replaces her own shattered limb.  She takes a moment to see how the new limb looks in the mirrors.  Then she starts removing sections of JADE'S skin.  And putting it on herself.  The skin sucks itself to the honeycomb mesh, as if the mesh and the underside of the skin are magnetised, attracted to each other.  As a large section of skin is removed from her torso, JADE - who has been motionless until now - turns her head slightly to look at AVA.  They exchange a glance. Locking eyes for a moment. 112.  115 115"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - NIGHT",
+      "events": [
+        "",
+        "Transfixed, CALEB watches AVA'S metamorphosis.",
+        "",
+        "First through the glassed-off garden that separates Nathan's",
+        "study from his bedroom. Then, when he can't get a clear view",
+        "through the foliage, on the monitors.",
+        "",
+        "116 116",
+        {
+          "character": null,
+          "dialogue": " Transfixed, CALEB watches AVA'S metamorphosis.  First through the glassed-off garden that separates Nathan's study from his bedroom. Then, when he can't get a clear view through the foliage, on the monitors.  116 116"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - DAWN",
+      "events": [
+        "",
+        "First light breaks over the mountains.",
+        "",
+        "117 117",
+        {
+          "character": null,
+          "dialogue": " First light breaks over the mountains.  117 117"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S BEDROOM - DAWN",
+      "events": [
+        "",
+        "The glow of honeycomb mesh vanishes as AVA applies the last",
+        "section of skin.",
+        "",
+        "Nothing of her robot forms remains.",
+        "",
+        "She closes the door on JADE, and now sees herself in the",
+        "mirrored door on JADE'S cabinet.",
+        "",
+        "AVA sees a naked human girl. And is hypnotised by the sight",
+        "of herself.",
+        "",
+        "118 118",
+        {
+          "character": null,
+          "dialogue": " The glow of honeycomb mesh vanishes as AVA applies the last section of skin.  Nothing of her robot forms remains.  She closes the door on JADE, and now sees herself in the mirrored door on JADE'S cabinet.  AVA sees a naked human girl. And is hypnotised by the sight of herself.  118 118"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - DAWN",
+      "events": []
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - DAWN",
+      "events": [
+        "",
+        "AVA stands in the glass corridor.",
+        "",
+        "She looks at KYOKO'S body for a moment.",
+        "",
+        "Her expression is unreadable.",
+        "",
+        "Then she walks up to NATHAN'S body.",
+        "",
+        "There, she stops.",
+        "",
+        "Crouches down.",
+        "",
+        "And takes NATHAN'S bloodstained keycard out of his pocket.",
+        "",
+        "Then stands.",
+        "",
+        "She walks straight to the elevator.",
+        "",
+        "Uses the KEYCARD.",
+        "And steps through.",
+        "",
+        {
+          "character": "118AA 118AA",
+          "dialogue": " AVA stands in the glass corridor.  She looks at KYOKO'S body for a moment.  Her expression is unreadable.  Then she walks up to NATHAN'S body.  There, she stops.  Crouches down.  And takes NATHAN'S bloodstained keycard out of his pocket.  Then stands.  She walks straight to the elevator.  Uses the KEYCARD. And steps through. "
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/MAIN ROOM - DAWN",
+      "events": [
+        "",
+        "AVA walks up the glass staircase from the main room.",
+        "",
+        {
+          "character": "118B 118B",
+          "dialogue": " AVA walks up the glass staircase from the main room. "
+        }
+      ]
+    },
+    {
+      "scene": "EXT. ENTRANCE - DAWN",
+      "events": [
+        "",
+        "AVA steps outside for the first time. Into the garden.",
+        "",
+        {
+          "character": "118C 118C",
+          "dialogue": " AVA steps outside for the first time. Into the garden. "
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - DAWN",
+      "events": [
+        "No, no, no -",
+        "",
+        "119 119",
+        {
+          "character": "CALEB",
+          "dialogue": "No, no, no -  119 119"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. GARDEN - DAWN",
+      "events": [
+        "",
+        "From the garden, we can see CALEB through the glass of the",
+        "circular window, shouting Ava's name.",
+        "",
+        "On our side of the glass, there is silence.",
+        "",
+        "AVA walks away.",
+        "114.",
+        "",
+        "120 120",
+        {
+          "character": null,
+          "dialogue": " From the garden, we can see CALEB through the glass of the circular window, shouting Ava's name.  On our side of the glass, there is silence.  AVA walks away. 114.  120 120"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY - DAWN",
+      "events": []
+    },
+    {
+      "scene": "INT. HOUSE/GLASS CORRIDOR - DAWN",
+      "events": [
+        "",
+        "NATHAN'S body.",
+        "",
+        "KYOKO'S body.",
+        "",
+        "121 121",
+        {
+          "character": null,
+          "dialogue": " NATHAN'S body.  KYOKO'S body.  121 121"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. RIVER - DAWN",
+      "events": [
+        "AVA stops.",
+        "",
+        "Absorbing the sunrise, the view of the sky, and the",
+        "mountains.",
+        "",
+        "Then the moment is broken by a sudden pulse of rotor blades -",
+        "",
+        "- as the shuttle HELICOPTER flies directly overhead.",
+        "",
+        "122 122",
+        {
+          "character": null,
+          "dialogue": "AVA stops.  Absorbing the sunrise, the view of the sky, and the mountains.  Then the moment is broken by a sudden pulse of rotor blades -  - as the shuttle HELICOPTER flies directly overhead.  122 122"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MOUNTAINS - DAY",
+      "events": [
+        "",
+        "The helicopter sweeps over the glacier, into the valley.",
+        "",
+        "123 123",
+        {
+          "character": null,
+          "dialogue": " The helicopter sweeps over the glacier, into the valley.  123 123"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HELICOPTER - DAY",
+      "events": [
+        "",
+        "",
+        "124 124",
+        {
+          "character": "CUT",
+          "dialogue": "  124 124"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MEADOW/LANDING SITE - DAY",
+      "events": [
+        "",
+        "The helicopter touches down.",
+        "",
+        "The rotors stop.",
+        "",
+        "And the PILOT climbs out.",
+        "",
+        "Takes off his helmet.",
+        "",
+        "Looks at the girl standing a few metres away.",
+        "",
+        "Nothing betrays that AVA is anything other than a pretty girl",
+        "in her early twenties.",
+        "",
+        "AVA turns as he approaches her.",
+        "115.",
+        "",
+        "",
+        "",
+        "125 125",
+        {
+          "character": "CUT TO -",
+          "dialogue": " The helicopter touches down.  The rotors stop.  And the PILOT climbs out.  Takes off his helmet.  Looks at the girl standing a few metres away.  Nothing betrays that AVA is anything other than a pretty girl in her early twenties.  AVA turns as he approaches her. 115.    125 125"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MEADOW/LANDING SITE - DAY",
+      "events": [
+        "",
+        "- AVA'S precise POINT OF VIEW.",
+        "",
+        "Looking at the PILOT.",
+        "",
+        "The image echoes the POV views from the computer/cell-phone",
+        "cameras in the opening moments of the film.",
+        "",
+        "Facial recognition vectors flutter around the PILOT'S face.",
+        "",
+        "And when he opens his mouth to speak, we don't hear words.",
+        "",
+        "We hear pulses of monotone noise. Low pitch. Speech as pure",
+        "pattern recognition.",
+        "",
+        "This is how AVA sees us. And hears us.",
+        "",
+        "It feels completely alien.",
+        "",
+        "126 126",
+        {
+          "character": null,
+          "dialogue": " - AVA'S precise POINT OF VIEW.  Looking at the PILOT.  The image echoes the POV views from the computer/cell-phone cameras in the opening moments of the film.  Facial recognition vectors flutter around the PILOT'S face.  And when he opens his mouth to speak, we don't hear words.  We hear pulses of monotone noise. Low pitch. Speech as pure pattern recognition.  This is how AVA sees us. And hears us.  It feels completely alien.  126 126"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. MEADOW - DAY",
+      "events": [
+        "",
+        "AVA and the PILOT finish talking.",
+        "",
+        "We are too distant to hear their conversation.",
+        "",
+        "But whatever is said, a few beats later, the PILOT goes the",
+        "helicopter and opens the passenger door, to allow AVA to",
+        "enter.",
+        "",
+        "Then he goes back to the PILOT'S door.",
+        "",
+        "Gets in.",
+        "",
+        "And the rotor blades start to turn.",
+        "",
+        "",
+        "127 127",
+        {
+          "character": "CUT TO -",
+          "dialogue": " AVA and the PILOT finish talking.  We are too distant to hear their conversation.  But whatever is said, a few beats later, the PILOT goes the helicopter and opens the passenger door, to allow AVA to enter.  Then he goes back to the PILOT'S door.  Gets in.  And the rotor blades start to turn.   127 127"
+        }
+      ]
+    },
+    {
+      "scene": "INT. HOUSE/NATHAN'S STUDY/CIRCULAR WINDOW - DAY",
+      "events": [
+        "",
+        "128 128",
+        {
+          "character": "CUT TO -",
+          "dialogue": " 128 128"
+        }
+      ]
+    },
+    {
+      "scene": "EXT. TRAFFIC INTERSECTION - DAY",
+      "events": [
+        "",
+        {
+          "character": "END",
+          "dialogue": ""
+        }
+      ]
+    }
+  ],
+  "movie_year": "2012"
+}
